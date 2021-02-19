@@ -1,7 +1,7 @@
 # History of Video Games in the Last 40 Years
 
 ## Goal
-In this project, I collaborated with [Gabriele Ghiotto](https://github.com/gabrieleghiotto) to analyze a video game dataset ([Kaggle]https://www.kaggle.com/rush4ratio/video-game-sales-with-ratings) to answer some questions about the history of the video game industry like:
+In this project, I collaborated with [Gabriele Ghiotto](https://github.com/gabrieleghiotto) to analyze a video game dataset ([Kaggle](https://www.kaggle.com/rush4ratio/video-game-sales-with-ratings) to answer some questions about the history of the video game industry like:
 * What is the most successful video game in history?
 * What is the most successful publisher?
 * What is the most successful game franchise?
